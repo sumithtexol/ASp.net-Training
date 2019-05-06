@@ -10,6 +10,7 @@ namespace SampleProject
     {
         static void Main(string[] args)
         {
+
             
             Console.WriteLine("Enter an integer");
             int n = Convert.ToInt32(Console.ReadLine());
@@ -20,6 +21,9 @@ namespace SampleProject
             }
             Console.ReadLine();
             
+
+
+
 
         }
 
