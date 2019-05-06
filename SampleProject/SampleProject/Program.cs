@@ -17,7 +17,7 @@ namespace SampleProject
             
             for (int i = 1; i <= n; i++) 
             {
-                Console.WriteLine(i);
+                Console.WriteLine("Gaiiiii"+i);
             }
             Console.ReadLine();
             
