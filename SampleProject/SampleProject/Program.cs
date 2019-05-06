@@ -10,21 +10,19 @@ namespace SampleProject
     {
         static void Main(string[] args)
         {
-
-            Program p = new Program();
-            p.ShowMessage();
-            GetMessage();
+            
+            Console.WriteLine("Enter an integer");
+            int n = Convert.ToInt32(Console.ReadLine());
+            
+            for (int i = 1; i <= n; i++) 
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
+            
 
         }
 
-        public void ShowMessage()
-        {
-            Console.WriteLine("Welcome");
-        }
-        public static void GetMessage()
-        {
-            Console.WriteLine("Hello World");
-            Console.Read();
-        }
+        
     }
 }
