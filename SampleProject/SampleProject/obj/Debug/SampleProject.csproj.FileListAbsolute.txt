@@ -5,3 +5,10 @@ C:\SUMITH\Texol\Training\Bahiya\Sample Programs\ASp.net-Training\SampleProject\S
 C:\SUMITH\Texol\Training\Bahiya\Sample Programs\ASp.net-Training\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
 C:\SUMITH\Texol\Training\Bahiya\Sample Programs\ASp.net-Training\SampleProject\SampleProject\obj\Debug\SampleProject.exe
 C:\SUMITH\Texol\Training\Bahiya\Sample Programs\ASp.net-Training\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
+C:\Texol Programs\ASp.net-Training\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Texol Programs\ASp.net-Training\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Texol Programs\ASp.net-Training\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Texol Programs\ASp.net-Training\SampleProject\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+C:\Texol Programs\ASp.net-Training\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+C:\Texol Programs\ASp.net-Training\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+C:\Texol Programs\ASp.net-Training\SampleProject\SampleProject\obj\Debug\SampleProject.pdb

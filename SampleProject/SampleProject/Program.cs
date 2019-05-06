@@ -10,9 +10,21 @@ namespace SampleProject
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Haiiii");
-            Console.Read();
 
+            Program p = new Program();
+            p.ShowMessage();
+            GetMessage();
+
+        }
+
+        public void ShowMessage()
+        {
+            Console.WriteLine("Welcome");
+        }
+        public static void GetMessage()
+        {
+            Console.WriteLine("Hello World");
+            Console.Read();
         }
     }
 }
